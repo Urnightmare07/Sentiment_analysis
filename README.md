@@ -28,22 +28,10 @@ Matplotlib / Seaborn - For data visualization
 TextBlob / NLTK / Huggingface Transformers - For sentiment analysis
 
 Installation
-Step 1: Clone the repository
+Step 1: Set up a virtual environment
 bash
-Copy
-Edit
-git clone https://github.com/yourusername/youtube-sentiment-analysis.git
-cd youtube-sentiment-analysis
-Step 2: Set up a virtual environment
-bash
-Copy
-Edit
 python -m venv venv
-source venv/bin/activate  # For Windows: venv\Scripts\activate
 Step 3: Install dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Step 4: Get YouTube API credentials
 Go to the Google Developer Console.
